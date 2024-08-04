@@ -1,0 +1,48 @@
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csprojAssemblyReference.cache
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+C:\Users\RubénM\source\repos\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csprojAssemblyReference.cache
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+C:\Users\RubénM\Dropbox\Documentos\FPU\Docencia\Laboratorio de Contenidos Digitales\Práctica_5_mia\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csprojAssemblyReference.cache
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+T:\Descargas\WebcamUDPMulticast\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb

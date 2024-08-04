@@ -1,0 +1,148 @@
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.AssemblyReference.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\ALaw.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\RTPStream.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\ALaw.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\RTPStream.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\videochat-server\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.AssemblyReference.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.xml
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.pdb
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.pdb
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.xml
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.AssemblyReference.cache
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\Project\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe.config
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ALaw.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\RTPStream.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.xml
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.AssemblyReference.cache
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Properties.Resources.resources
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.GenerateResource.cache
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CoreCompileInputs.cache
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.csproj.CopyComplete
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.exe
+C:\Users\wangd_keo4723\Desktop\Laboratorio_Proyecto_WangDawei\WebcamUDPMulticast\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.pdb

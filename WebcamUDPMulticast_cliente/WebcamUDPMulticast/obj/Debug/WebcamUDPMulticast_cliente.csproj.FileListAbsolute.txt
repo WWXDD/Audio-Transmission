@@ -1,0 +1,63 @@
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe.config
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.pdb
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csprojAssemblyReference.cache
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.Properties.Resources.resources
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.GenerateResource.cache
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.CopyComplete
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.exe
+C:\Users\Ferna\source\repos\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.pdb
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe.config
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.exe
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.pdb
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.pdb
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.Properties.Resources.resources
+\\Mac\Home\Desktop\P5\Práctica5_Trabajo_PerezYepezFernando\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe.config
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.exe
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.pdb
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.pdb
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.Properties.Resources.resources
+\\Mac\Home\Desktop\P5\Ejemplo Video Multicast\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.GenerateResource.Cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe.config
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.exe
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebcamUDPMulticast_cliente.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\ALaw.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.dll
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\ALaw.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\Touchless.Vision.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\bin\Debug\WebCamLib.pdb
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.AssemblyReference.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast.Form1.resources
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.Properties.Resources.resources
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.GenerateResource.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.CoreCompileInputs.cache
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.csproj.CopyComplete
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.exe
+C:\Users\wangd_keo4723\Desktop\视频通话\WebcamUDPMulticast_cliente\WebcamUDPMulticast\obj\Debug\WebcamUDPMulticast_cliente.pdb

@@ -1,0 +1,6 @@
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\bin\Debug\ALaw.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\bin\Debug\ALaw.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\obj\Debug\ALaw.csproj.AssemblyReference.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\obj\Debug\ALaw.csproj.CoreCompileInputs.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\obj\Debug\ALaw.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\ALaw\obj\Debug\ALaw.pdb

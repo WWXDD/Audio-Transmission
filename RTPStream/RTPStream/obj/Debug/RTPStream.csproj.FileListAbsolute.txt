@@ -1,0 +1,6 @@
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\bin\Debug\RTPStream.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\bin\Debug\RTPStream.pdb
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\obj\Debug\RTPStream.csproj.AssemblyReference.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\obj\Debug\RTPStream.csproj.CoreCompileInputs.cache
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\obj\Debug\RTPStream.dll
+E:\University\fourth year\Laboratorio de contenidos digitales\videochat-qos-master\RTPStream\RTPStream\obj\Debug\RTPStream.pdb

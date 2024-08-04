@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTPStream", "RTPStream\RTPStream.csproj", "{C895A1B6-0FAB-4186-BB5A-FACC39DFFE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C895A1B6-0FAB-4186-BB5A-FACC39DFFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C895A1B6-0FAB-4186-BB5A-FACC39DFFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C895A1B6-0FAB-4186-BB5A-FACC39DFFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C895A1B6-0FAB-4186-BB5A-FACC39DFFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C042AD-E11C-4E59-8D4B-B3AF99136776}
+	EndGlobalSection
+EndGlobal
